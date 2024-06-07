@@ -1,18 +1,7 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtlN3N2b2NrMmlodXJ4aGk1aWR0aXoxcXJzMHE5bHI3ZG5kNmY4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TfSJ8TGlL0E9DzSSUF/giphy.webp"  width="60"/>  Nice to se you 👋 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vMndtYWgzd3l6eHh2bTBzYnJ0dmw2MTNkdHhkdmhobnp2a213YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.webp"  width="100" align="right"/>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vMndtYWgzd3l6eHh2bTBzYnJ0dmw2MTNkdHhkdmhobnp2a213YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.webp" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
-
-![Presentación123](https://github.com/nicoletiarev/nicoletiarev/assets/74216289/3ede6fea-cedc-4a03-971b-f91af5d36079)
-
-<img src="(https://github.com/nicoletiarev/nicoletiarev/assets/74216289/3ede6fea-cedc-4a03-971b-f91af5d36079"  width="60">
-
-</p>
-<p align="center">
-  <img src="ps://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nicole 👋 ❤️">
-
-
+![Presentación123](https://github.com/nicoletiarev/nicoletiarev/assets/74216289/3ede6fea-cedc-4a03-971b-f91af5d36079.gif)
 
 </p>
 
